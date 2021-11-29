@@ -9,7 +9,7 @@ NextArch Foundation will focus on the evolution, application and commercializati
 
 ## Governance
 
-* The [techical-charter](tecnical-charter.md) under which NextArch Foundation operates
+* The [techical-charter](technical-charter.md) under which NextArch Foundation operates
 
 ## Project Guidance
 
