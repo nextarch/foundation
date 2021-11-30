@@ -23,7 +23,7 @@ TBD
 
 A lot of project, SIG, and TOC-related content is in the TOC [repo](https://github.com/nextarch/toc). 
 
-[nextarch.io](https://nextarch.io) has information on all programs offered publicly by CNCF.
+[nextarch.io](https://nextarch.io) has information on all programs offered publicly by the NextArch Foundation.
 
 ## How to request changes
 
