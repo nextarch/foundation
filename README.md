@@ -7,6 +7,8 @@ NextArch Foundation will focus on the evolution, application and commercializati
 
 ![future landscape.png](https://i.loli.net/2021/11/29/HpQ2m1BuSwLiW7z.png)
 
+You could get more information from the [NextArch Foundation Overview Slides](https://docs.google.com/presentation/d/1ESDKoakLGjrTGPzBd2zljpbXzTVFLbZM)
+
 ## Governance
 
 * The [techical-charter](technical-charter.md) under which NextArch Foundation operates
